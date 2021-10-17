@@ -1,0 +1,26 @@
+https://stackoverflow.com/questions/12905426/what-is-a-faster-alternative-to-pythons-http-server-or-simplehttpserver
+
+http-server for node.js is very convenient, and is a lot faster than Python's SimpleHTTPServer. This is primarily because it uses asynchronous IO for concurrent handling of requests, instead of serialising requests.
+
+Installation
+Install node.js if you haven't already. Then use the node package manager (npm) to install the package, using the -g option to install globally. If you're on Windows you'll need a prompt with administrator permissions, and on Linux/OSX you'll want to sudo the command:
+
+npm install http-server -g
+This will download any required dependencies and install http-server.
+
+Use
+Now, from any directory, you can type:
+
+http-server [path] [options]
+Path is optional, defaulting to ./public if it exists, otherwise ./.
+
+Options are [defaults]:
+
+-p The port number to listen on [8080]
+-a The host address to bind to [localhost]
+-i Display directory index pages [True]
+-s or --silent Silent mode won't log to the console
+-h or --help Displays help message and exits
+So to serve the current directory on port 8000, type:
+
+http-server -p 8000
