@@ -1,0 +1,2463 @@
+fileFormatVersion: 2
+guid: 1cc0a52f4e53af24f9814bd5ed866908
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -894387173527953005
+    second: tarma_0
+  - first:
+      213: 800479106241971116
+    second: tarma_1
+  - first:
+      213: -3244126604846956877
+    second: tarma_2
+  - first:
+      213: 7048198398925023442
+    second: tarma_3
+  - first:
+      213: 698347943852190418
+    second: tarma_4
+  - first:
+      213: -3817286286463725148
+    second: tarma_5
+  - first:
+      213: 1628922344448902673
+    second: tarma_6
+  - first:
+      213: 2494292179258960474
+    second: tarma_7
+  - first:
+      213: -2934996370132348576
+    second: tarma_8
+  - first:
+      213: 7611379525535547845
+    second: tarma_9
+  - first:
+      213: 2322585529614767080
+    second: tarma_10
+  - first:
+      213: -1288640022627003824
+    second: tarma_11
+  - first:
+      213: 8246691656051263249
+    second: tarma_12
+  - first:
+      213: -7363711423968238348
+    second: tarma_13
+  - first:
+      213: -162404803528281693
+    second: tarma_14
+  - first:
+      213: -472980255060046431
+    second: tarma_15
+  - first:
+      213: -2772048741454324374
+    second: tarma_16
+  - first:
+      213: -6175342460783498280
+    second: tarma_17
+  - first:
+      213: 4294190850147304885
+    second: tarma_18
+  - first:
+      213: -7226704486895098055
+    second: tarma_19
+  - first:
+      213: 6914380789882658477
+    second: tarma_20
+  - first:
+      213: -8037539752541180475
+    second: tarma_21
+  - first:
+      213: -9101217732865822550
+    second: tarma_22
+  - first:
+      213: 7321051843783256267
+    second: tarma_23
+  - first:
+      213: 8349256886080836634
+    second: tarma_24
+  - first:
+      213: -1432604936817877928
+    second: tarma_25
+  - first:
+      213: -5026739548293534109
+    second: tarma_26
+  - first:
+      213: -4685875330753948934
+    second: tarma_27
+  - first:
+      213: 1412220547216762548
+    second: tarma_28
+  - first:
+      213: -742478276234248769
+    second: tarma_29
+  - first:
+      213: 1414418371844040499
+    second: tarma_30
+  - first:
+      213: 1759136668883031429
+    second: tarma_31
+  - first:
+      213: -5920468199401444959
+    second: tarma_32
+  - first:
+      213: -978119706252055642
+    second: tarma_33
+  - first:
+      213: -2139310860109074693
+    second: tarma_34
+  - first:
+      213: -4516223991997974817
+    second: tarma_35
+  - first:
+      213: 8683831150456051646
+    second: tarma_36
+  - first:
+      213: 5795175503925213174
+    second: tarma_37
+  - first:
+      213: -8505900219974886876
+    second: tarma_38
+  - first:
+      213: -4525738639666540712
+    second: tarma_39
+  - first:
+      213: -8971417622188751267
+    second: tarma_40
+  - first:
+      213: 4558827536893075126
+    second: tarma_41
+  - first:
+      213: -4578428571113117267
+    second: tarma_42
+  - first:
+      213: 2821814700223209017
+    second: tarma_43
+  - first:
+      213: -8474274572324820571
+    second: tarma_44
+  - first:
+      213: 7941145380367493794
+    second: tarma_45
+  - first:
+      213: 3235468572893974863
+    second: tarma_46
+  - first:
+      213: -3463886367080497764
+    second: tarma_47
+  - first:
+      213: 3213743784497656389
+    second: tarma_48
+  - first:
+      213: -447536739798161467
+    second: tarma_49
+  - first:
+      213: -3636595234420417340
+    second: tarma_50
+  - first:
+      213: 691337321703015133
+    second: tarma_51
+  - first:
+      213: 3917096127872051937
+    second: tarma_52
+  - first:
+      213: 2846383387568781025
+    second: tarma_53
+  - first:
+      213: -7096520656949602279
+    second: tarma_54
+  - first:
+      213: -1363141399620320754
+    second: tarma_55
+  - first:
+      213: 8709771331743687882
+    second: tarma_56
+  - first:
+      213: 1072920459033679658
+    second: tarma_57
+  - first:
+      213: 3683223992159716950
+    second: tarma_58
+  - first:
+      213: -4433474371879983581
+    second: tarma_59
+  - first:
+      213: 3735600329393044369
+    second: tarma_60
+  - first:
+      213: 7499034013190092408
+    second: tarma_61
+  - first:
+      213: -6880626700411153154
+    second: tarma_62
+  - first:
+      213: -7661625477348054992
+    second: tarma_63
+  - first:
+      213: -5788920304165783224
+    second: tarma_64
+  - first:
+      213: 7930879108352917064
+    second: tarma_65
+  - first:
+      213: 1194993220387956230
+    second: tarma_66
+  - first:
+      213: 5854073210855323171
+    second: tarma_67
+  - first:
+      213: -6863870875610699405
+    second: tarma_68
+  - first:
+      213: 5973915277909254398
+    second: tarma_69
+  - first:
+      213: -7451142843170105758
+    second: tarma_70
+  - first:
+      213: 6291269059177941943
+    second: tarma_71
+  - first:
+      213: -6178633992352469511
+    second: tarma_72
+  - first:
+      213: 3252215496404270389
+    second: tarma_73
+  - first:
+      213: -1976912425872886312
+    second: tarma_74
+  - first:
+      213: 3678425997378735126
+    second: tarma_75
+  - first:
+      213: 6205170142611737728
+    second: tarma_76
+  - first:
+      213: -8423488827501041944
+    second: tarma_77
+  - first:
+      213: 6470036980227769087
+    second: tarma_78
+  - first:
+      213: 5854017592659898078
+    second: tarma_79
+  - first:
+      213: 3943677444803569019
+    second: tarma_80
+  - first:
+      213: 2879704009893995997
+    second: tarma_81
+  - first:
+      213: -2502538567684840485
+    second: tarma_82
+  - first:
+      213: -7269274155841761210
+    second: tarma_83
+  - first:
+      213: -4101723026658823931
+    second: tarma_84
+  - first:
+      213: -1880804099674852690
+    second: tarma_85
+  - first:
+      213: -8065978441758464655
+    second: tarma_86
+  - first:
+      213: -5679272673851547259
+    second: tarma_87
+  - first:
+      213: 7467086842060204717
+    second: tarma_88
+  - first:
+      213: -1807874241621974298
+    second: tarma_89
+  - first:
+      213: -7774380113638795561
+    second: tarma_90
+  - first:
+      213: 3209125700548664470
+    second: tarma_91
+  - first:
+      213: 7762522175967539710
+    second: tarma_92
+  - first:
+      213: 3484099132836817211
+    second: tarma_93
+  - first:
+      213: 8623564618194882541
+    second: tarma_94
+  - first:
+      213: 3042559347403513361
+    second: tarma_95
+  - first:
+      213: 8961525540577744430
+    second: tarma_96
+  - first:
+      213: 8459363468630374718
+    second: tarma_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tarma_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1671
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3916336ba9f7693f0800000000000000
+      internalID: -894387173527953005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1671
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3cca9818fdb1b00800000000000000
+      internalID: 800479106241971116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1671
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef3bf7a0c8af2d0800000000000000
+      internalID: -3244126604846956877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1671
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82762d91b30d160800000000000000
+      internalID: 7048198398925023442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1671
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da2fe241c701b900800000000000000
+      internalID: 698347943852190418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1671
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a11c59e856460bc0800000000000000
+      internalID: -3817286286463725148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116c29bed381b9610800000000000000
+      internalID: 1628922344448902673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae3ce85818d9220800000000000000
+      internalID: 2494292179258960474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06153350a5cc447d0800000000000000
+      internalID: -2934996370132348576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c14a360a5d01a960800000000000000
+      internalID: 7611379525535547845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3962dcb3b7b3020800000000000000
+      internalID: 2322585529614767080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05257f71ab4dd1ee0800000000000000
+      internalID: -1288640022627003824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1170d1b4e52227270800000000000000
+      internalID: 8246691656051263249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f423e97977dec990800000000000000
+      internalID: -7363711423968238348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a131ef01b50fbdf0800000000000000
+      internalID: -162404803528281693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad4f57c6f2af69f0800000000000000
+      internalID: -472980255060046431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ddb894b54b789d0800000000000000
+      internalID: -2772048741454324374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1324
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbec9210c6cc4aa0800000000000000
+      internalID: -6175342460783498280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b543cc93d7089b30800000000000000
+      internalID: 4294190850147304885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93765e1de8695bb90800000000000000
+      internalID: -7226704486895098055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae9db6c1b0d4ff50800000000000000
+      internalID: 6914380789882658477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda3b50e2ce47090800000000000000
+      internalID: -8037539752541180475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0fb0931baf1b180800000000000000
+      internalID: -9101217732865822550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86be20dd9999560800000000000000
+      internalID: 7321051843783256267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a141551d6e48ed370800000000000000
+      internalID: 8349256886080836634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cdf75766d5e1ce0800000000000000
+      internalID: -1432604936817877928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e6e8d730f6d3ab0800000000000000
+      internalID: -5026739548293534109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af215a8a63d68feb0800000000000000
+      internalID: -4685875330753948934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ec5dfa17399310800000000000000
+      internalID: 1412220547216762548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfc9b01ff22b5f0800000000000000
+      internalID: -742478276234248769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337ec89e30601a310800000000000000
+      internalID: 1414418371844040499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851324ea75b96810800000000000000
+      internalID: 1759136668883031429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a92ea66a8546dda0800000000000000
+      internalID: -5920468199401444959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 50
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2785, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab69093f450d62f0800000000000000
+      internalID: -978119706252055642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1008
+        width: 51
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27315, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe20177b14af42e0800000000000000
+      internalID: -2139310860109074693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1008
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.285, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd63dde05362351c0800000000000000
+      internalID: -4516223991997974817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1008
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4, y: 0.406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb797642c6a238870800000000000000
+      internalID: 8683831150456051646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1008
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4035, y: 0.406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7f18aaa699c6050800000000000000
+      internalID: 5795175503925213174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_38
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1008
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4, y: 0.4075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ada7de0d8f4f980800000000000000
+      internalID: -8505900219974886876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1008
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8a648fa85131c0800000000000000
+      internalID: -4525738639666540712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1008
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.37, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5682c9843f1f7380800000000000000
+      internalID: -8971417622188751267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1008
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bed7c8bd75344f30800000000000000
+      internalID: 4558827536893075126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_42
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1008
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9ad4dd8772670c0800000000000000
+      internalID: -4578428571113117267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1133
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e97cce489192720800000000000000
+      internalID: 2821814700223209017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_44
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1133
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a92473dc24556a80800000000000000
+      internalID: -8474274572324820571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_45
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1133
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae98246ad943e60800000000000000
+      internalID: 7941145380367493794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1133
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4119495681b6ec20800000000000000
+      internalID: 3235468572893974863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1134
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d39db93bdcdefc0800000000000000
+      internalID: -3463886367080497764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_48
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1134
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423a12e1f2899c20800000000000000
+      internalID: 3213743784497656389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_49
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1134
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e460d4b70ac9f0800000000000000
+      internalID: -447536739798161467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_50
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc1e7cd6e7388dc0800000000000000
+      internalID: -3636595234420417340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_51
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2041891af189900800000000000000
+      internalID: 691337321703015133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_52
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1134
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2fd4bc225c5630800000000000000
+      internalID: 3917096127872051937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 28
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63c963c92608720800000000000000
+      internalID: 2846383387568781025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 940
+        width: 28
+        height: 64
+      alignment: 9
+      pivot: {x: 0.65, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9181c4dbf08148d90800000000000000
+      internalID: -7096520656949602279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 940
+        width: 28
+        height: 66
+      alignment: 9
+      pivot: {x: 0.65, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0280098e16251de0800000000000000
+      internalID: -1363141399620320754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 940
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0.225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a67f31e25fd870800000000000000
+      internalID: 8709771331743687882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_57
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 940
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2793f01977c3ee00800000000000000
+      internalID: 1072920459033679658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_58
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 939
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65640e0d4b07d1330800000000000000
+      internalID: 3683223992159716950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_59
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 939
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ab4f5c822972c0800000000000000
+      internalID: -4433474371879983581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 939
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bfd4025b487d330800000000000000
+      internalID: 3735600329393044369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 939
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87674c214bbe11860800000000000000
+      internalID: 7499034013190092408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_62
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 939
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4dce9987a1380a0800000000000000
+      internalID: -6880626700411153154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1174
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038269ca8307ca590800000000000000
+      internalID: -7661625477348054992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1634
+        width: 22
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f62587af99afa0800000000000000
+      internalID: -5788920304165783224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_65
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1634
+        width: 31
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e31f98784201e60800000000000000
+      internalID: 7930879108352917064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_66
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1634
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606693aa008759010800000000000000
+      internalID: 1194993220387956230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_67
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1634
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6, y: 0.225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326792ea198dd3150800000000000000
+      internalID: 5854073210855323171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_68
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1634
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37923131ec1aeb0a0800000000000000
+      internalID: -6863870875610699405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_69
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1634
+        width: 22
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef06f0a4b4c97e250800000000000000
+      internalID: 5973915277909254398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_70
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1629
+        width: 22
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266d62edf09389890800000000000000
+      internalID: -7451142843170105758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_71
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1629
+        width: 22
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb05b270e31f4750800000000000000
+      internalID: 6291269059177941943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_72
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1629
+        width: 22
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6da8ae15114aa0800000000000000
+      internalID: -6178633992352469511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_73
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1629
+        width: 24
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d723453c0322d20800000000000000
+      internalID: 3252215496404270389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_74
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1584
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57acf6f989094e0800000000000000
+      internalID: -1976912425872886312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_75
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1584
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c425a94f46c0330800000000000000
+      internalID: 3678425997378735126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_76
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1587
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c8b394e513d1650800000000000000
+      internalID: 6205170142611737728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_77
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1586
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6245b7a81c91b80800000000000000
+      internalID: -8423488827501041944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_78
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1585
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff20e129a503ac950800000000000000
+      internalID: 6470036980227769087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_79
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1584
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede616f0cf5ad3150800000000000000
+      internalID: 5854017592659898078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_80
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1559
+        width: 34
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ac36ddb1cab630800000000000000
+      internalID: 3943677444803569019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_81
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1560
+        width: 35
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5eff72a83c6f720800000000000000
+      internalID: 2879704009893995997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_82
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1561
+        width: 34
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32e648e62354dd0800000000000000
+      internalID: -2502538567684840485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_83
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1560
+        width: 33
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640df166ba95e1b90800000000000000
+      internalID: -7269274155841761210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_84
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1128
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.55, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f5fc93a0c317c0800000000000000
+      internalID: -4101723026658823931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 26
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6, y: 0.775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea238c2e2aa06e5e0800000000000000
+      internalID: -1880804099674852690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_86
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 879
+        width: 20
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6, y: 0.775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752705b753ef0090800000000000000
+      internalID: -8065978441758464655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_87
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 877
+        width: 20
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ee7cd79b2f21b0800000000000000
+      internalID: -5679272673851547259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_88
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 902
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaedf7abeb60a760800000000000000
+      internalID: 7467086842060204717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_89
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 900
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.575, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e22b8da4f329e6e0800000000000000
+      internalID: -1807874241621974298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 898
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.575, y: 0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d2b12a7adb1490800000000000000
+      internalID: -7774380113638795561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 728
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c97cc62da198c20800000000000000
+      internalID: 3209125700548664470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_92
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 728
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef133ab9ac40abb60800000000000000
+      internalID: 7762522175967539710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_93
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 728
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392cf6a3b10a5030800000000000000
+      internalID: 3484099132836817211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_94
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 728
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def0225a45e0da770800000000000000
+      internalID: 8623564618194882541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 728
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed7063b97593a20800000000000000
+      internalID: 3042559347403513361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarma_96
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 728
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e261abbbffbbd5c70800000000000000
+      internalID: 8961525540577744430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

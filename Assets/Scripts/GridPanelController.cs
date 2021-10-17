@@ -8,6 +8,7 @@ public class GridPanelController : MonoBehaviour
     
     [SerializeField] private GameObject gridUnit;
     [SerializeField] private GameObject fruitUnit;
+    [SerializeField] private GameObject snake;
     [SerializeField] private int _numOfRows = 11;
     [SerializeField] private int _numOfColumns = 8;
 
@@ -34,7 +35,14 @@ public class GridPanelController : MonoBehaviour
 
         gridMatrix = new GameObject[_numOfRows, _numOfColumns];
         InstantiateGrid();
+        InstantiateSnake();
         InstantiateFruit();
+    }
+
+    private void InstantiateSnake()
+    {
+        var snakeInstance = Instantiate(snake);
+        snakeInstance.transform.SetParent(gridTransform, false);
     }
 
     private void InstantiateGrid()
