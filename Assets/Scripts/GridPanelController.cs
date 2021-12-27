@@ -100,6 +100,7 @@ public class GridPanelController : MonoBehaviour
         else
         {
             var newGridUnit = Instantiate(gridUnit, gridTransform);
+            newGridUnit.transform.SetAsFirstSibling();
             var unitCoords = fruitInstance.GetComponent<GridUnitCoordinates>();
             newGridUnit.transform.localPosition = fruitInstance.transform.localPosition;
             gridMatrix[unitCoords.xCoordinate, unitCoords.yCoordinate] = newGridUnit;
